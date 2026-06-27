@@ -1,8 +1,5 @@
 package day_02;
 
-// Date: 27 June 2025
-// File: palindrome_number
-// Topic: Check if a Number is Palindrome
 
 import java.util.Scanner;
 
