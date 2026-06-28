@@ -1,9 +1,5 @@
 package day_12;
-
 public class armstrong_num_function_46 {
-                
-    
-
     static int countDigits(int n) {
         int count = 0;
         while (n != 0) {
