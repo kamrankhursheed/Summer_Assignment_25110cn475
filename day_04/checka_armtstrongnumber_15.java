@@ -4,8 +4,6 @@ package day_04;
 import java.util.Scanner;
 
 public class checka_armtstrongnumber_15 {
-    
-}
 
     static int countDigits(int x) {
         if (x == 0)
