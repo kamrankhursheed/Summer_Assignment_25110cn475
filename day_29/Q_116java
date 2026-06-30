@@ -1,0 +1,19 @@
+package day_29;
+import java.util.Scanner;
+
+public class Q_116 {
+    public static void main(String[] args) {
+        String item;
+        int quantity;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter Item Name: ");
+        item = sc.next();
+        System.out.print("Enter Quantity: ");
+        quantity = sc.nextInt();
+
+        System.out.println("\nInventory Details");
+        System.out.println("Item = " + item);
+        System.out.println("Quantity = " + quantity);
+    }
+}
